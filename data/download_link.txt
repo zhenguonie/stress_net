@@ -3,3 +3,4 @@ data/all_data_m.npy
 data/all_data_s.npy
 
 The files can be downloaded from:
+https://pan.baidu.com/s/1mHb0AlA9NBWneRgGDEXMTA     password:bwii
