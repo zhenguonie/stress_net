@@ -1,0 +1,5 @@
+Please download the dataset files into this folder:
+data/all_data_m.npy
+data/all_data_s.npy
+
+The files can be downloaded from:
