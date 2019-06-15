@@ -1,4 +1,4 @@
-Ubuntu16.04 + TensorFlow 1.6 + GPU Nvidia 1080Ti
+Ubuntu16.04 + TensorFlow 1.4 + GPU Nvidia 1080Ti
 
 
 # StressNet
