@@ -1,3 +1,6 @@
+Ubuntu16.04 + TensorFlow 1.6 + GPU Nvidia 1080Ti
+
+
 # StressNet
 Stress Field Prediction in Cantilevered Structures Using Convolutional Neural Networks
 
