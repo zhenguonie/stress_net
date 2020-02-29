@@ -13,6 +13,7 @@ https://drive.google.com/drive/folders/185UX1WINiLl2PFOH7ickEdF3ZG29Cf7Z?usp=sha
 
 
 Citation:
+
 Nie, Z., Jiang, H., & Kara, L. B. (2020). Stress Field Prediction in Cantilevered Structures Using Convolutional Neural Networks. Journal of Computing and Information Science in Engineering, 20(1).
 
 @article{nie2020stress,
